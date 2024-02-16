@@ -1,0 +1,11 @@
+.form-group .error-txt {
+  font-size: 14.5px;
+  color: var(--skin-color);
+  text-align: left;
+  margin-top: 2px;
+  display: none;
+}
+
+.form-group.error .error-txt {
+  display: block;
+}
